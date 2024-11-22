@@ -12,7 +12,7 @@ CBZ Combiner is a simple tool designed to help you merge and split CBZ archives 
 ## How to Use
 
 ### Step 1: Download the Tool
-1. Go to the [CBZ Combiner Website or Link](#) (Replace # with the link to where users can download the `.exe` file).
+1. Go to the [CBZ Combiner Website or Link](https://github.com/k-nacion/cbz-combiner/releases/tag/v1.0.0).
 2. Download the file named **`cbz_combiner.exe`** to your computer.
 
 ### Step 2: Prepare Your Files
