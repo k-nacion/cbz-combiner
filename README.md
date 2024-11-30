@@ -22,9 +22,9 @@ CBZ Combiner is a simple tool designed to help you merge and split CBZ archives 
 ### Step 3: Run the Tool
 1. Double-click on **`cbz_combiner.exe`** to open the tool.
 2. Follow the on-screen instructions:
-    - Enter the folder path where your CBZ files are located.
-    - Choose whether to merge or split the files.
-    - If splitting, set the maximum size for the output files (in MB).
+   - Enter the folder path where your CBZ files are located.
+   - Choose whether to merge or split the files.
+   - If splitting, set the maximum size for the output files (in MB).
 
 ### Step 4: Check the Output
 - The processed files will be saved in a folder named **`output`** in the same location as the tool.
@@ -43,9 +43,6 @@ A: No! CBZ Combiner is ready to use. Just download the `.exe` file and follow th
 **Q: Can I use this tool on a Mac or Linux computer?**
 A: This version is designed for Windows. For other systems, a separate version may be needed.
 
-**Q: What happens if I make a mistake while entering the folder path?**
-A: The tool will prompt you to re-enter the correct path. Make sure to double-check your folder location.
-
 ---
 
 ## Troubleshooting
@@ -57,3 +54,4 @@ A: The tool will prompt you to re-enter the correct path. Make sure to double-ch
 ## License
 CBZ Combiner is free to use. Feel free to share it with others who may find it helpful!
 
+For more information on related tools, visit [Manga to E-reader](https://github.com/k-nacion/manga-to-ereader), a tool designed to convert manga files into formats optimized for e-readers.
